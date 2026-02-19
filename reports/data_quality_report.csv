@@ -1,0 +1,9 @@
+Metric,Value
+Total Records Processed,541909
+Missing CustomerID Removed,135080
+Negative Quantity Removed,8905
+Cancelled Invoices Removed,0
+Invalid Price Removed,40
+Extreme Price Outliers Removed,34356
+Duplicate Records Removed,4948
+Final Clean Records,358580
